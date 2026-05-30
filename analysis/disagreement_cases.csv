@@ -1,0 +1,669 @@
+﻿season_id,student_id,stage,commission_id,max_score,evaluator_count,score_range,avg_score,range_pct_of_stage,student_name,topic_area,topic_title
+S2026_SPRING,STU_0130,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,4.5,14.75,22.5,Буян.Идэр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0100,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,4.0,13.833333333333334,20.0,Ган.Болор,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0083,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,4.0,14.0,20.0,Бат.Номин,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0078,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,7.0,30.125,20.0,Болд.Оюун,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0061,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,4.0,13.25,20.0,Алтан.Хулан,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0089,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,4.5,18.833333333333332,18.0,Буян.Номин,Education Technology,Digital rubric system for student assessment
+S2026_SPRING,STU_0217,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,4.5,18.75,18.0,Мөнх.Идэр,E-Commerce Systems,Shopping cart and order tracking system
+S2025_WINTER,STU_0036,PRELIMINARY_DEFENSE,S2025_WINTER_COM_01,25.0,3,4.5,18.0,18.0,Сайн.Дөлгөөн,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0200,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,4.5,19.625,18.0,Цогт.Оюун,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0109,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,3.5,15.375,17.5,Очир.Наран,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0133,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,3.5,13.666666666666666,17.5,Очир.Ганзориг,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0145,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,3.5,15.0,17.5,Буян.Саруул,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0191,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,6.0,27.5,17.142857142857142,Ням.Бат-Эрдэнэ,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0188,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,6.0,30.166666666666668,17.142857142857142,Жаргал.Идэр,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0112,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,6.0,26.875,17.142857142857142,Ням.Төгөлдөр,Cloud/Microservices,Containerized service architecture for student systems
+S2025_WINTER,STU_0045,PRELIMINARY_DEFENSE,S2025_WINTER_COM_04,25.0,3,4.0,18.0,16.0,Ням.Ариунзаяа,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0164,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,4.0,19.5,16.0,Очир.Дөлгөөн,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0176,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,4.0,20.0,16.0,Бат.Номин,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0080,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,5.5,27.5,15.714285714285714,Эрдэнэ.Марал,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0120,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,5.5,27.0,15.714285714285714,Дорж.Идэр,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0062,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,5.5,29.25,15.714285714285714,Жаргал.Эрдэнэсувд,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0061,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,5.5,24.125,15.714285714285714,Алтан.Хулан,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0220,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,5.5,27.0,15.714285714285714,Бат.Хулан,Database Systems,Database design for thesis management workflows
+S2025_WINTER,STU_0036,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_01,20.0,3,3.0,13.833333333333334,15.0,Сайн.Дөлгөөн,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0078,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,3.0,15.125,15.0,Болд.Оюун,Cybersecurity,Secure authentication model for student information systems
+S2025_WINTER,STU_0029,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_05,20.0,4,3.0,15.875,15.0,Мөнх.Ариунзаяа,Education Technology,Digital rubric system for student assessment
+S2026_SPRING,STU_0081,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,3.0,15.666666666666666,15.0,Мөнх.Ганзориг,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0195,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,3.0,11.833333333333334,15.0,Сүх.Болор,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0149,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,3.0,14.75,15.0,Ган.Билгүүн,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0157,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,3.0,13.75,15.0,Буян.Төгөлдөр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0070,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,3.0,14.333333333333334,15.0,Болд.Билгүүн,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0162,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,3.0,15.125,15.0,Ган.Саруул,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0214,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,3.0,13.333333333333334,15.0,Ням.Оюун,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0205,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,3.0,13.833333333333334,15.0,Цогт.Болор,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0159,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,3.0,13.5,15.0,Ган.Саруул,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0165,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,3.0,13.333333333333334,15.0,Сайн.Тэмүүлэн,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0106,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,3.0,12.125,15.0,Ган.Сод-Эрдэнэ,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0088,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,3.0,13.375,15.0,Сүх.Болор,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0118,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,3.0,14.75,15.0,Дорж.Идэр,Cybersecurity,Secure authentication model for student information systems
+S2025_WINTER,STU_0012,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_06,20.0,3,3.0,15.5,15.0,Буян.Наран,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0215,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,3.0,16.5,15.0,Ням.Хулан,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0155,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,5.0,28.8,14.285714285714286,Эрдэнэ.Энхрий,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0056,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,5.0,25.875,14.285714285714286,Бат.Дөлгөөн,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0060,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,5.0,25.166666666666668,14.285714285714286,Буян.Одгэрэл,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0091,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,5.0,28.0,14.285714285714286,Алтан.Сод-Эрдэнэ,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0106,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,5.0,26.8,14.285714285714286,Ган.Сод-Эрдэнэ,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0199,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,5.0,26.2,14.285714285714286,Болд.Хулан,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0143,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,5.0,25.166666666666668,14.285714285714286,Бат.Сод-Эрдэнэ,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0207,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,3.5,17.5,14.0,Алтан.Сод-Эрдэнэ,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0202,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,3.5,18.833333333333332,14.0,Цогт.Номин,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0161,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,3.5,18.25,14.0,Жаргал.Ганзориг,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0220,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,3.5,18.5,14.0,Бат.Хулан,Database Systems,Database design for thesis management workflows
+S2025_WINTER,STU_0024,PRELIMINARY_DEFENSE,S2025_WINTER_COM_03,25.0,4,3.5,19.125,14.0,Ням.Ариунзаяа,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0166,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,3.5,20.625,14.0,Бат.Мөнх-Оргил,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0215,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,4.5,30.875,12.857142857142858,Ням.Хулан,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0202,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,4.5,26.25,12.857142857142858,Цогт.Номин,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0100,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,4.5,29.875,12.857142857142858,Ган.Болор,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0214,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,4.5,25.75,12.857142857142858,Ням.Оюун,Cloud/Microservices,Containerized service architecture for student systems
+S2025_WINTER,STU_0033,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_02,20.0,3,2.5,14.0,12.5,Буян.Саруул,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0121,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,2.5,14.625,12.5,Болд.Ганзориг,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0211,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,2.5,14.375,12.5,Ням.Марал,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0202,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,2.5,14.166666666666666,12.5,Цогт.Номин,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0201,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,2.5,15.625,12.5,Сүх.Ганзориг,Cybersecurity,Secure authentication model for student information systems
+S2025_WINTER,STU_0025,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_05,20.0,4,2.5,14.25,12.5,Алтан.Төгөлдөр,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0221,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,2.5,14.375,12.5,Жаргал.Ананд,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0199,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,2.5,13.75,12.5,Болд.Хулан,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0217,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,2.5,14.625,12.5,Мөнх.Идэр,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0172,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,2.5,14.333333333333334,12.5,Сүх.Хүслэн,Mobile Applications,Android-based student progress tracking application
+S2025_WINTER,STU_0042,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_05,20.0,4,2.5,14.25,12.5,Төмөр.Энхрий,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0050,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,2.5,16.75,12.5,Бат.Марал,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0147,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,2.5,14.666666666666666,12.5,Дорж.Ананд,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0052,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,2.5,14.333333333333334,12.5,Болд.Тэмүүлэн,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0173,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,2.5,14.666666666666666,12.5,Сайн.Марал,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0170,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,2.5,13.166666666666666,12.5,Ган.Хүслэн,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0082,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,2.5,15.0,12.5,Алтан.Мөнх-Оргил,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0140,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,2.5,12.833333333333334,12.5,Сайн.Ариунзаяа,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0084,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,2.5,14.25,12.5,Цогт.Наран,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0182,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,2.5,13.166666666666666,12.5,Болд.Болор,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0046,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,2.5,14.5,12.5,Ням.Ариунзаяа,E-Commerce Systems,Shopping cart and order tracking system
+S2025_WINTER,STU_0020,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_03,20.0,3,2.5,14.166666666666666,12.5,Мөнх.Ариунзаяа,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0105,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,2.5,14.5,12.5,Сүх.Билгүүн,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0107,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,2.5,13.5,12.5,Ган.Оюун,Education Technology,Learning progress dashboard for undergraduate courses
+S2025_WINTER,STU_0037,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_07,20.0,4,2.5,15.5,12.5,Болд.Ариунзаяа,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0194,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,2.5,14.0,12.5,Очир.Ганзориг,Web Systems,Web-based academic workflow management system
+S2025_WINTER,STU_0030,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_06,20.0,3,2.5,15.833333333333334,12.5,Эрдэнэ.Болор,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0111,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,3.0,18.5,12.0,Буян.Одгэрэл,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0103,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,3.0,20.375,12.0,Ням.Тэнүүн,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0096,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,3.0,19.25,12.0,Төмөр.Билгүүн,Cloud/Microservices,Containerized service architecture for student systems
+S2025_WINTER,STU_0029,PRELIMINARY_DEFENSE,S2025_WINTER_COM_05,25.0,4,3.0,19.75,12.0,Мөнх.Ариунзаяа,Education Technology,Digital rubric system for student assessment
+S2026_SPRING,STU_0101,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,3.0,20.666666666666668,12.0,Төмөр.Энхжин,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0132,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,3.0,19.833333333333332,12.0,Мөнх.Тэнүүн,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0072,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,3.0,17.5,12.0,Сүх.Одгэрэл,Web Systems,Web-based academic workflow management system
+S2025_WINTER,STU_0011,PRELIMINARY_DEFENSE,S2025_WINTER_COM_04,25.0,3,3.0,19.333333333333332,12.0,Буян.Ананд,E-Commerce Systems,Shopping cart and order tracking system
+S2025_WINTER,STU_0010,PRELIMINARY_DEFENSE,S2025_WINTER_COM_05,25.0,4,3.0,18.75,12.0,Цогт.Энхрий,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0094,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,3.0,19.125,12.0,Мөнх.Оюун,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0057,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,3.0,18.75,12.0,Сайн.Одгэрэл,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0060,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,3.0,16.5,12.0,Буян.Одгэрэл,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0051,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,3.0,22.25,12.0,Цогт.Ариунзаяа,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0171,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,3.0,18.5,12.0,Төмөр.Номин,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0175,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,3.0,18.75,12.0,Буян.Тэмүүлэн,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0130,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,3.0,19.0,12.0,Буян.Идэр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0074,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,3.0,18.0,12.0,Буян.Марал,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0180,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,3.0,20.0,12.0,Дорж.Марал,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0090,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,3.0,18.166666666666668,12.0,Сайн.Тэнүүн,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0145,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,3.0,21.0,12.0,Буян.Саруул,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2025_WINTER,STU_0031,PRELIMINARY_DEFENSE,S2025_WINTER_COM_07,25.0,4,3.0,20.25,12.0,Төмөр.Энхжин,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0050,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,3.0,21.875,12.0,Бат.Марал,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0095,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,4.0,24.875,11.428571428571429,Очир.Марал,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0074,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,4.0,24.5,11.428571428571429,Буян.Марал,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0076,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,4.0,31.0,11.428571428571429,Сүх.Одгэрэл,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0090,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,4.0,28.166666666666668,11.428571428571429,Сайн.Тэнүүн,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0046,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,4.0,26.0,11.428571428571429,Ням.Ариунзаяа,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0129,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,4.0,28.875,11.428571428571429,Дорж.Энхжин,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0198,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,4.0,27.333333333333332,11.428571428571429,Бат.Бат-Эрдэнэ,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0124,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,4.0,27.125,11.428571428571429,Дорж.Мөнх-Оргил,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0087,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,4.0,28.375,11.428571428571429,Алтан.Сод-Эрдэнэ,Web Systems,Web-based academic workflow management system
+S2025_WINTER,STU_0042,FINAL_DEFENSE,S2025_WINTER_COM_05,35.0,4,4.0,27.625,11.428571428571429,Төмөр.Энхрий,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0160,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,4.0,25.166666666666668,11.428571428571429,Ган.Ариунзаяа,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0162,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,4.0,29.5,11.428571428571429,Ган.Саруул,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2025_WINTER,STU_0040,FINAL_DEFENSE,S2025_WINTER_COM_07,35.0,5,4.0,29.3,11.428571428571429,Ням.Мөнх-Оргил,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0213,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,4.0,25.666666666666668,11.428571428571429,Төмөр.Төгөлдөр,Cybersecurity,Access-control model for academic document systems
+S2025_WINTER,STU_0010,FINAL_DEFENSE,S2025_WINTER_COM_05,35.0,4,4.0,26.625,11.428571428571429,Цогт.Энхрий,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0209,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,4.0,26.166666666666668,11.428571428571429,Төмөр.Марал,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2025_WINTER,STU_0001,FINAL_DEFENSE,S2025_WINTER_COM_07,35.0,5,4.0,28.1,11.428571428571429,Сүх.Саруул,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0225,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,2.5,18.333333333333332,10.0,Очир.Наран,Mobile Applications,Android-based student progress tracking application
+S2025_WINTER,STU_0001,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_07,20.0,4,2.0,14.375,10.0,Сүх.Саруул,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0225,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,2.0,13.5,10.0,Очир.Наран,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0223,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,2.0,13.833333333333334,10.0,Сүх.Болор,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2025_WINTER,STU_0002,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_02,20.0,3,2.0,14.666666666666666,10.0,Алтан.Хүслэн,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0208,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,2.0,13.166666666666666,10.0,Буян.Номин,Computer Graphics,Graphics-based simulation for learning environments
+S2025_WINTER,STU_0005,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_01,20.0,3,2.0,15.0,10.0,Сайн.Тэмүүлэн,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0208,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,3.5,26.875,10.0,Буян.Номин,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0199,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,2.5,18.625,10.0,Болд.Хулан,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0200,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,2.0,14.25,10.0,Цогт.Оюун,Web Systems,Role-based dashboard for university information systems
+S2025_WINTER,STU_0026,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_01,20.0,3,2.0,13.833333333333334,10.0,Төмөр.Номин,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0177,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,2.0,15.0,10.0,Дорж.Номин,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2025_WINTER,STU_0042,PRELIMINARY_DEFENSE,S2025_WINTER_COM_05,25.0,4,2.5,18.125,10.0,Төмөр.Энхрий,Mobile Applications,Android-based student progress tracking application
+S2025_WINTER,STU_0043,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_03,20.0,3,2.0,16.833333333333332,10.0,Дорж.Тэнүүн,Cybersecurity,Access-control model for academic document systems
+S2025_WINTER,STU_0008,FINAL_DEFENSE,S2025_WINTER_COM_04,35.0,3,3.5,31.0,10.0,Жаргал.Марал,Cloud/Microservices,Containerized service architecture for student systems
+S2025_WINTER,STU_0009,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_02,20.0,3,2.0,13.666666666666666,10.0,Мөнх.Ананд,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2025_WINTER,STU_0009,PRELIMINARY_DEFENSE,S2025_WINTER_COM_02,25.0,4,2.5,17.375,10.0,Мөнх.Ананд,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2025_WINTER,STU_0014,PRELIMINARY_DEFENSE,S2025_WINTER_COM_06,25.0,4,2.5,18.75,10.0,Жаргал.Марал,Computer Graphics,Graphics-based simulation for learning environments
+S2025_WINTER,STU_0014,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_06,20.0,3,2.0,13.666666666666666,10.0,Жаргал.Марал,Computer Graphics,Graphics-based simulation for learning environments
+S2025_WINTER,STU_0013,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_04,20.0,3,2.0,13.833333333333334,10.0,Сүх.Билгүүн,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0211,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,2.5,21.0,10.0,Ням.Марал,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0214,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,2.5,17.125,10.0,Ням.Оюун,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0067,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,2.0,11.5,10.0,Ням.Тэмүүлэн,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0067,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,2.5,16.5,10.0,Ням.Тэмүүлэн,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0064,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,2.0,14.75,10.0,Буян.Саруул,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2026_SPRING,STU_0151,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,2.5,19.5,10.0,Сайн.Мөнх-Оргил,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0161,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,2.0,13.666666666666666,10.0,Жаргал.Ганзориг,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0163,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,2.5,19.5,10.0,Сайн.Оюун,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0156,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,2.0,16.125,10.0,Болд.Бат-Эрдэнэ,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0157,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,3.5,26.5,10.0,Буян.Төгөлдөр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0166,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,2.0,15.5,10.0,Бат.Мөнх-Оргил,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0162,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,2.5,19.0,10.0,Ган.Саруул,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0164,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,2.0,15.5,10.0,Очир.Дөлгөөн,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0165,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,3.5,27.25,10.0,Сайн.Тэмүүлэн,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0059,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,2.5,17.625,10.0,Ням.Марал,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0168,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,3.5,26.166666666666668,10.0,Болд.Марал,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0167,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,2.0,15.833333333333334,10.0,Төмөр.Ариунзаяа,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0169,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,2.5,21.5,10.0,Ган.Мөнх-Оргил,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0108,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,2.0,13.833333333333334,10.0,Ням.Идэр,Computer Graphics,Interactive visualization tool for academic data
+S2025_WINTER,STU_0007,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_07,20.0,4,2.0,13.875,10.0,Жаргал.Тэнүүн,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0192,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,2.5,19.5,10.0,Цогт.Ганзориг,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0189,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,2.0,14.666666666666666,10.0,Алтан.Энхжин,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0116,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,2.0,15.5,10.0,Сайн.Ариунзаяа,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0113,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,2.5,17.833333333333332,10.0,Цогт.Ананд,Cloud/Microservices,Containerized service architecture for student systems
+S2025_WINTER,STU_0032,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_02,20.0,3,2.0,14.5,10.0,Төмөр.Оюун,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2025_WINTER,STU_0006,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_05,20.0,4,2.0,15.625,10.0,Цогт.Одгэрэл,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0095,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,2.0,13.166666666666666,10.0,Очир.Марал,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0095,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,2.5,17.833333333333332,10.0,Очир.Марал,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0094,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,2.0,15.666666666666666,10.0,Мөнх.Оюун,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0097,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,2.5,19.875,10.0,Жаргал.Ариунзаяа,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0104,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,2.0,14.5,10.0,Сүх.Наран,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0106,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,2.5,17.75,10.0,Ган.Сод-Эрдэнэ,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0110,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,2.5,18.25,10.0,Жаргал.Тэмүүлэн,Education Technology,Learning progress dashboard for undergraduate courses
+S2025_WINTER,STU_0018,PRELIMINARY_DEFENSE,S2025_WINTER_COM_04,25.0,3,2.5,18.333333333333332,10.0,Дорж.Дөлгөөн,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0149,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,2.5,20.666666666666668,10.0,Ган.Билгүүн,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0150,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,3.5,27.6,10.0,Эрдэнэ.Тэнүүн,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2026_SPRING,STU_0150,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,2.0,13.625,10.0,Эрдэнэ.Тэнүүн,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2026_SPRING,STU_0074,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,2.0,12.666666666666666,10.0,Буян.Марал,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2025_WINTER,STU_0027,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_02,20.0,3,2.0,14.5,10.0,Эрдэнэ.Төгөлдөр,Computer Graphics,Graphics-based simulation for learning environments
+S2025_WINTER,STU_0028,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_03,20.0,3,2.0,13.166666666666666,10.0,Ган.Тэнүүн,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0177,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,2.5,21.166666666666668,10.0,Дорж.Номин,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2025_WINTER,STU_0032,PRELIMINARY_DEFENSE,S2025_WINTER_COM_02,25.0,4,2.5,18.625,10.0,Төмөр.Оюун,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0080,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,2.0,12.75,10.0,Эрдэнэ.Марал,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0071,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,2.0,14.666666666666666,10.0,Төмөр.Эрдэнэсувд,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0071,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,3.5,26.375,10.0,Төмөр.Эрдэнэсувд,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0150,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,2.5,18.625,10.0,Эрдэнэ.Тэнүүн,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2026_SPRING,STU_0144,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,2.5,17.0,10.0,Цогт.Саруул,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0141,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,2.0,13.875,10.0,Болд.Болор,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0146,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,2.5,20.25,10.0,Ган.Ариунзаяа,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0092,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,2.5,19.625,10.0,Төмөр.Тэнүүн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0191,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,2.0,14.125,10.0,Ням.Бат-Эрдэнэ,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0196,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,3.5,31.875,10.0,Очир.Төгөлдөр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2025_WINTER,STU_0016,PRELIMINARY_DEFENSE,S2025_WINTER_COM_07,25.0,4,2.5,20.0,10.0,Сүх.Ананд,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0196,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,2.5,20.666666666666668,10.0,Очир.Төгөлдөр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2025_WINTER,STU_0018,FINAL_DEFENSE,S2025_WINTER_COM_04,35.0,3,3.5,27.666666666666668,10.0,Дорж.Дөлгөөн,Computer Graphics,Interactive visualization tool for academic data
+S2025_WINTER,STU_0017,PRELIMINARY_DEFENSE,S2025_WINTER_COM_06,25.0,4,2.5,20.375,10.0,Ням.Тэнүүн,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0122,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,2.0,13.0,10.0,Дорж.Тэмүүлэн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0124,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,2.0,13.833333333333334,10.0,Дорж.Мөнх-Оргил,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0131,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,2.5,20.75,10.0,Буян.Саруул,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0127,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,2.5,22.0,10.0,Бат.Сод-Эрдэнэ,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0131,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,2.0,16.0,10.0,Буян.Саруул,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0129,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,2.5,17.666666666666668,10.0,Дорж.Энхжин,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0134,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,2.0,15.625,10.0,Сүх.Эрдэнэсувд,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0134,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,2.5,20.375,10.0,Сүх.Эрдэнэсувд,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0048,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,2.0,15.5,10.0,Цогт.Тэмүүлэн,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0047,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,2.5,17.5,10.0,Сүх.Хүслэн,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0120,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,2.0,13.333333333333334,10.0,Дорж.Идэр,Web Systems,Role-based dashboard for university information systems
+S2025_WINTER,STU_0018,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_04,20.0,3,2.0,14.333333333333334,10.0,Дорж.Дөлгөөн,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0164,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,3.0,28.5,8.571428571428571,Очир.Дөлгөөн,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0192,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,3.0,27.833333333333332,8.571428571428571,Цогт.Ганзориг,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0097,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,3.0,28.0,8.571428571428571,Жаргал.Ариунзаяа,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0099,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,3.0,26.4,8.571428571428571,Эрдэнэ.Эрдэнэсувд,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0190,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,3.0,31.125,8.571428571428571,Бат.Мөнх-Оргил,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0103,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,3.0,29.875,8.571428571428571,Ням.Тэнүүн,Computer Graphics,Graphics-based simulation for learning environments
+S2025_WINTER,STU_0021,FINAL_DEFENSE,S2025_WINTER_COM_03,35.0,4,3.0,27.25,8.571428571428571,Очир.Идэр,Education Technology,Digital rubric system for student assessment
+S2026_SPRING,STU_0119,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,3.0,27.5,8.571428571428571,Бат.Хулан,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0197,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,3.0,30.166666666666668,8.571428571428571,Жаргал.Саруул,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0049,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,3.0,31.0,8.571428571428571,Эрдэнэ.Болор,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2026_SPRING,STU_0195,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,3.0,26.25,8.571428571428571,Сүх.Болор,Database Systems,Database design for thesis management workflows
+S2025_WINTER,STU_0003,FINAL_DEFENSE,S2025_WINTER_COM_02,35.0,3,3.0,26.166666666666668,8.571428571428571,Төмөр.Бат-Эрдэнэ,Computer Graphics,Interactive visualization tool for academic data
+S2025_WINTER,STU_0004,FINAL_DEFENSE,S2025_WINTER_COM_03,35.0,4,3.0,28.0,8.571428571428571,Сүх.Номин,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0204,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,3.0,31.1,8.571428571428571,Ням.Билгүүн,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0147,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,3.0,26.75,8.571428571428571,Дорж.Ананд,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0081,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,3.0,30.125,8.571428571428571,Мөнх.Ганзориг,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0136,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,3.0,29.5,8.571428571428571,Сүх.Марал,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2025_WINTER,STU_0031,FINAL_DEFENSE,S2025_WINTER_COM_07,35.0,5,3.0,29.8,8.571428571428571,Төмөр.Энхжин,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0065,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,3.0,27.125,8.571428571428571,Бат.Ананд,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0151,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,3.0,30.875,8.571428571428571,Сайн.Мөнх-Оргил,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0066,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,3.0,26.625,8.571428571428571,Цогт.Ариунзаяа,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0070,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,3.0,29.375,8.571428571428571,Болд.Билгүүн,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0063,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,3.0,27.2,8.571428571428571,Очир.Номин,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0181,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,3.0,31.5,8.571428571428571,Ган.Билгүүн,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0187,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,3.0,29.0,8.571428571428571,Сайн.Тэмүүлэн,Cybersecurity,Access-control model for academic document systems
+S2025_WINTER,STU_0028,FINAL_DEFENSE,S2025_WINTER_COM_03,35.0,4,3.0,25.875,8.571428571428571,Ган.Тэнүүн,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0178,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,3.0,30.0,8.571428571428571,Төмөр.Энхрий,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0182,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,3.0,29.75,8.571428571428571,Болд.Болор,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0179,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,3.0,27.666666666666668,8.571428571428571,Дорж.Номин,Education Technology,Digital rubric system for student assessment
+S2025_WINTER,STU_0030,FINAL_DEFENSE,S2025_WINTER_COM_06,35.0,3,3.0,28.5,8.571428571428571,Эрдэнэ.Болор,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0047,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,3.0,27.0,8.571428571428571,Сүх.Хүслэн,Mobile Applications,Mobile application for campus service access
+S2025_WINTER,STU_0008,PRELIMINARY_DEFENSE,S2025_WINTER_COM_04,25.0,3,2.0,21.5,8.0,Жаргал.Марал,Cloud/Microservices,Containerized service architecture for student systems
+S2025_WINTER,STU_0013,PRELIMINARY_DEFENSE,S2025_WINTER_COM_04,25.0,3,2.0,19.166666666666668,8.0,Сүх.Билгүүн,Education Technology,Learning progress dashboard for undergraduate courses
+S2025_WINTER,STU_0007,PRELIMINARY_DEFENSE,S2025_WINTER_COM_07,25.0,4,2.0,18.5,8.0,Жаргал.Тэнүүн,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0219,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,2.0,17.666666666666668,8.0,Сайн.Төгөлдөр,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0209,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,2.0,18.875,8.0,Төмөр.Марал,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2026_SPRING,STU_0212,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,2.0,19.666666666666668,8.0,Мөнх.Энхжин,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0213,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,2.0,17.0,8.0,Төмөр.Төгөлдөр,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0208,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,2.0,18.5,8.0,Буян.Номин,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0203,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,2.0,19.0,8.0,Очир.Болор,Education Technology,Learning progress dashboard for undergraduate courses
+S2025_WINTER,STU_0025,PRELIMINARY_DEFENSE,S2025_WINTER_COM_05,25.0,4,2.0,19.75,8.0,Алтан.Төгөлдөр,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0218,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,2.0,22.0,8.0,Буян.Наран,Education Technology,Digital rubric system for student assessment
+S2025_WINTER,STU_0002,PRELIMINARY_DEFENSE,S2025_WINTER_COM_02,25.0,4,2.0,19.5,8.0,Алтан.Хүслэн,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0215,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,2.0,20.25,8.0,Ням.Хулан,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0152,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,2.0,19.875,8.0,Болд.Наран,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0070,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,2.0,19.875,8.0,Болд.Билгүүн,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0178,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,2.0,21.0,8.0,Төмөр.Энхрий,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0181,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,2.0,20.833333333333332,8.0,Ган.Билгүүн,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0185,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,2.0,20.25,8.0,Очир.Билгүүн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0186,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,2.0,20.5,8.0,Алтан.Эрдэнэсувд,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0138,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,2.0,17.5,8.0,Ням.Дөлгөөн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0142,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,2.0,19.875,8.0,Цогт.Тэнүүн,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0147,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,2.0,19.5,8.0,Дорж.Ананд,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0078,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,2.0,21.0,8.0,Болд.Оюун,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0064,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,2.0,19.5,8.0,Буян.Саруул,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2026_SPRING,STU_0158,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,2.0,18.5,8.0,Болд.Дөлгөөн,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0054,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,2.0,21.166666666666668,8.0,Цогт.Төгөлдөр,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0053,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,2.0,18.5,8.0,Сүх.Билгүүн,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0062,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,2.0,20.125,8.0,Жаргал.Эрдэнэсувд,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0128,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,2.0,16.833333333333332,8.0,Очир.Тэмүүлэн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2025_WINTER,STU_0041,PRELIMINARY_DEFENSE,S2025_WINTER_COM_03,25.0,4,2.0,18.75,8.0,Ням.Эрдэнэсувд,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0124,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,2.0,17.333333333333332,8.0,Дорж.Мөнх-Оргил,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0193,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,2.0,21.625,8.0,Эрдэнэ.Тэнүүн,Database Systems,Relational data model for defense score analysis
+S2025_WINTER,STU_0015,PRELIMINARY_DEFENSE,S2025_WINTER_COM_06,25.0,4,2.0,19.625,8.0,Ням.Идэр,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2025_WINTER,STU_0026,PRELIMINARY_DEFENSE,S2025_WINTER_COM_01,25.0,3,2.0,19.666666666666668,8.0,Төмөр.Номин,E-Commerce Systems,Shopping cart and order tracking system
+S2025_WINTER,STU_0022,PRELIMINARY_DEFENSE,S2025_WINTER_COM_01,25.0,3,2.0,17.833333333333332,8.0,Буян.Марал,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0120,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,2.0,17.333333333333332,8.0,Дорж.Идэр,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0119,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,2.0,18.625,8.0,Бат.Хулан,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0082,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,2.0,19.833333333333332,8.0,Алтан.Мөнх-Оргил,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0121,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,2.0,18.875,8.0,Болд.Ганзориг,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0112,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,2.0,18.833333333333332,8.0,Ням.Төгөлдөр,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0114,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,2.0,17.833333333333332,8.0,Алтан.Наран,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0190,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,2.0,21.75,8.0,Бат.Мөнх-Оргил,Cybersecurity,Secure authentication model for student information systems
+S2025_WINTER,STU_0037,PRELIMINARY_DEFENSE,S2025_WINTER_COM_07,25.0,4,2.0,21.0,8.0,Болд.Ариунзаяа,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0194,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,2.0,18.833333333333332,8.0,Очир.Ганзориг,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0191,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,2.0,19.0,8.0,Ням.Бат-Эрдэнэ,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0098,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,2.0,18.5,8.0,Цогт.Бат-Эрдэнэ,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0107,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,2.0,17.833333333333332,8.0,Ган.Оюун,Education Technology,Learning progress dashboard for undergraduate courses
+S2025_WINTER,STU_0003,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_02,20.0,3,1.5,13.833333333333334,7.5,Төмөр.Бат-Эрдэнэ,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0222,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,1.5,14.166666666666666,7.5,Бат.Сод-Эрдэнэ,E-Commerce Systems,Shopping cart and order tracking system
+S2025_WINTER,STU_0008,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_04,20.0,3,1.5,15.833333333333334,7.5,Жаргал.Марал,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0085,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,1.5,13.333333333333334,7.5,Сүх.Хулан,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0123,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,1.5,15.833333333333334,7.5,Ням.Төгөлдөр,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0180,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,1.5,14.75,7.5,Дорж.Марал,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0185,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,1.5,14.875,7.5,Очир.Билгүүн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0183,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,1.5,15.5,7.5,Сүх.Номин,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0102,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,1.5,16.0,7.5,Очир.Билгүүн,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0114,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,1.5,13.666666666666666,7.5,Алтан.Наран,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0110,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,1.5,13.666666666666666,7.5,Жаргал.Тэмүүлэн,Education Technology,Learning progress dashboard for undergraduate courses
+S2025_WINTER,STU_0034,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_01,20.0,3,1.5,14.666666666666666,7.5,Ням.Оюун,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0190,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,1.5,17.25,7.5,Бат.Мөнх-Оргил,Cybersecurity,Secure authentication model for student information systems
+S2025_WINTER,STU_0038,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_01,20.0,3,1.5,12.0,7.5,Сайн.Эрдэнэсувд,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0188,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,1.5,14.875,7.5,Жаргал.Идэр,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0197,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,1.5,16.0,7.5,Жаргал.Саруул,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0193,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,1.5,15.833333333333334,7.5,Эрдэнэ.Тэнүүн,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0119,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,1.5,13.666666666666666,7.5,Бат.Хулан,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0056,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,1.5,13.5,7.5,Бат.Дөлгөөн,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0051,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,1.5,14.875,7.5,Цогт.Ариунзаяа,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0163,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,1.5,15.0,7.5,Сайн.Оюун,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0063,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,1.5,14.5,7.5,Очир.Номин,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2025_WINTER,STU_0004,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_03,20.0,3,1.5,12.5,7.5,Сүх.Номин,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0209,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,1.5,13.666666666666666,7.5,Төмөр.Марал,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2026_SPRING,STU_0060,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,1.5,13.0,7.5,Буян.Одгэрэл,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0207,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,1.5,12.333333333333334,7.5,Алтан.Сод-Эрдэнэ,Cloud/Microservices,Containerized service architecture for student systems
+S2025_WINTER,STU_0015,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_06,20.0,3,1.5,14.5,7.5,Ням.Идэр,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2026_SPRING,STU_0101,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,1.5,15.833333333333334,7.5,Төмөр.Энхжин,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0092,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,1.5,14.333333333333334,7.5,Төмөр.Тэнүүн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2025_WINTER,STU_0023,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_04,20.0,3,1.5,15.833333333333334,7.5,Төмөр.Энхрий,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0099,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,1.5,15.5,7.5,Эрдэнэ.Эрдэнэсувд,Cybersecurity,Access-control model for academic document systems
+S2025_WINTER,STU_0022,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_01,20.0,3,1.5,14.666666666666666,7.5,Буян.Марал,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0204,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,1.5,15.625,7.5,Ням.Билгүүн,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0169,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,1.5,15.875,7.5,Ган.Мөнх-Оргил,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0142,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,1.5,14.666666666666666,7.5,Цогт.Тэнүүн,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0151,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,1.5,15.625,7.5,Сайн.Мөнх-Оргил,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0148,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,1.5,15.75,7.5,Мөнх.Сод-Эрдэнэ,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0058,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,1.5,14.0,7.5,Очир.Саруул,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0057,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,1.5,14.833333333333334,7.5,Сайн.Одгэрэл,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0053,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,1.5,13.375,7.5,Сүх.Билгүүн,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0059,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,1.5,12.833333333333334,7.5,Ням.Марал,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0127,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,1.5,17.125,7.5,Бат.Сод-Эрдэнэ,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0128,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,1.5,12.166666666666666,7.5,Очир.Тэмүүлэн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2025_WINTER,STU_0044,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_05,20.0,4,1.5,14.625,7.5,Алтан.Марал,Mobile Applications,Mobile application for campus service access
+S2025_WINTER,STU_0041,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_03,20.0,3,1.5,14.166666666666666,7.5,Ням.Эрдэнэсувд,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0176,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,1.5,16.0,7.5,Бат.Номин,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0072,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,1.5,12.833333333333334,7.5,Сүх.Одгэрэл,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0077,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,1.5,15.666666666666666,7.5,Мөнх.Саруул,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0213,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,1.5,13.166666666666666,7.5,Төмөр.Төгөлдөр,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0054,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,1.5,15.5,7.5,Цогт.Төгөлдөр,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0076,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,1.5,15.833333333333334,7.5,Сүх.Одгэрэл,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0082,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,2.5,28.375,7.142857142857143,Алтан.Мөнх-Оргил,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0092,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,2.5,29.833333333333332,7.142857142857143,Төмөр.Тэнүүн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2025_WINTER,STU_0045,FINAL_DEFENSE,S2025_WINTER_COM_04,35.0,3,2.5,27.0,7.142857142857143,Ням.Ариунзаяа,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0084,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,2.5,27.875,7.142857142857143,Цогт.Наран,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0109,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,2.5,29.833333333333332,7.142857142857143,Очир.Наран,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0102,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,2.5,29.0,7.142857142857143,Очир.Билгүүн,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0193,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,2.5,29.125,7.142857142857143,Эрдэнэ.Тэнүүн,Database Systems,Relational data model for defense score analysis
+S2025_WINTER,STU_0033,FINAL_DEFENSE,S2025_WINTER_COM_02,35.0,3,2.5,27.666666666666668,7.142857142857143,Буян.Саруул,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0085,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,2.5,31.0,7.142857142857143,Сүх.Хулан,Computer Graphics,Graphics-based simulation for learning environments
+S2025_WINTER,STU_0002,FINAL_DEFENSE,S2025_WINTER_COM_02,35.0,3,2.5,30.666666666666668,7.142857142857143,Алтан.Хүслэн,Web Systems,Role-based dashboard for university information systems
+S2025_WINTER,STU_0009,FINAL_DEFENSE,S2025_WINTER_COM_02,35.0,3,2.5,25.166666666666668,7.142857142857143,Мөнх.Ананд,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2025_WINTER,STU_0016,FINAL_DEFENSE,S2025_WINTER_COM_07,35.0,5,2.5,28.0,7.142857142857143,Сүх.Ананд,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0117,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,2.5,28.5,7.142857142857143,Ган.Оюун,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0083,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,2.5,28.25,7.142857142857143,Бат.Номин,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0163,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,2.5,30.4,7.142857142857143,Сайн.Оюун,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0153,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,2.5,27.25,7.142857142857143,Буян.Ариунзаяа,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0218,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,2.5,32.75,7.142857142857143,Буян.Наран,Education Technology,Digital rubric system for student assessment
+S2026_SPRING,STU_0101,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,2.5,29.5,7.142857142857143,Төмөр.Энхжин,E-Commerce Systems,Online marketplace prototype for local businesses
+S2025_WINTER,STU_0015,FINAL_DEFENSE,S2025_WINTER_COM_06,35.0,3,2.5,30.5,7.142857142857143,Ням.Идэр,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2026_SPRING,STU_0219,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,2.5,25.166666666666668,7.142857142857143,Сайн.Төгөлдөр,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0211,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,2.5,31.125,7.142857142857143,Ням.Марал,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0094,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,2.5,25.875,7.142857142857143,Мөнх.Оюун,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0149,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,2.5,29.0,7.142857142857143,Ган.Билгүүн,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0064,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,2.5,26.875,7.142857142857143,Буян.Саруул,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2026_SPRING,STU_0156,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,2.5,30.5,7.142857142857143,Болд.Бат-Эрдэнэ,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0221,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,2.5,31.0,7.142857142857143,Жаргал.Ананд,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0177,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,2.5,29.75,7.142857142857143,Дорж.Номин,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2025_WINTER,STU_0043,FINAL_DEFENSE,S2025_WINTER_COM_03,35.0,4,2.5,31.25,7.142857142857143,Дорж.Тэнүүн,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0073,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,2.5,26.75,7.142857142857143,Болд.Эрдэнэсувд,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0072,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,2.5,28.5,7.142857142857143,Сүх.Одгэрэл,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0135,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,2.5,27.375,7.142857142857143,Жаргал.Болор,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0131,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,2.5,30.0,7.142857142857143,Буян.Саруул,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0079,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,2.5,29.9,7.142857142857143,Цогт.Төгөлдөр,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0146,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,2.5,29.166666666666668,7.142857142857143,Ган.Ариунзаяа,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0057,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,2.5,31.0,7.142857142857143,Сайн.Одгэрэл,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0140,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,2.5,24.875,7.142857142857143,Сайн.Ариунзаяа,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0093,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,1.5,20.5,6.0,Сайн.Ананд,Computer Graphics,Interactive visualization tool for academic data
+S2025_WINTER,STU_0020,PRELIMINARY_DEFENSE,S2025_WINTER_COM_03,25.0,4,1.5,19.125,6.0,Мөнх.Ариунзаяа,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0160,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,1.5,18.25,6.0,Ган.Ариунзаяа,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0156,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,1.5,21.666666666666668,6.0,Болд.Бат-Эрдэнэ,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0167,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,1.5,19.75,6.0,Төмөр.Ариунзаяа,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0168,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,1.5,18.25,6.0,Болд.Марал,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0155,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,1.5,19.0,6.0,Эрдэнэ.Энхрий,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0065,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,1.5,17.333333333333332,6.0,Бат.Ананд,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0159,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,1.5,17.25,6.0,Ган.Саруул,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0052,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,1.5,18.333333333333332,6.0,Болд.Тэмүүлэн,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0173,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,1.5,19.0,6.0,Сайн.Марал,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0210,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,1.5,21.125,6.0,Сайн.Сод-Эрдэнэ,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0099,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,1.5,20.5,6.0,Эрдэнэ.Эрдэнэсувд,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0216,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,1.5,17.0,6.0,Болд.Сод-Эрдэнэ,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0068,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,1.5,18.875,6.0,Ням.Саруул,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0061,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,1.5,16.875,6.0,Алтан.Хулан,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0221,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,1.5,19.833333333333332,6.0,Жаргал.Ананд,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0139,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,1.5,20.0,6.0,Буян.Тэнүүн,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0135,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,1.5,18.5,6.0,Жаргал.Болор,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0143,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,1.5,18.125,6.0,Бат.Сод-Эрдэнэ,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0141,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,1.5,17.166666666666668,6.0,Болд.Болор,Computer Graphics,Interactive visualization tool for academic data
+S2025_WINTER,STU_0043,PRELIMINARY_DEFENSE,S2025_WINTER_COM_03,25.0,4,1.5,20.875,6.0,Дорж.Тэнүүн,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0086,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,1.5,19.75,6.0,Очир.Одгэрэл,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0183,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,1.5,20.25,6.0,Сүх.Номин,Computer Graphics,Graphics-based simulation for learning environments
+S2025_WINTER,STU_0035,PRELIMINARY_DEFENSE,S2025_WINTER_COM_06,25.0,4,1.5,20.875,6.0,Төмөр.Эрдэнэсувд,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0087,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,1.5,19.666666666666668,6.0,Алтан.Сод-Эрдэнэ,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0189,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,1.5,19.875,6.0,Алтан.Энхжин,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0195,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,1.5,16.166666666666668,6.0,Сүх.Болор,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0091,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,1.5,19.166666666666668,6.0,Алтан.Сод-Эрдэнэ,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0102,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,1.5,21.0,6.0,Очир.Билгүүн,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0117,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,1.5,18.25,6.0,Ган.Оюун,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0118,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,1.5,17.833333333333332,6.0,Дорж.Идэр,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0222,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,1.5,19.25,6.0,Бат.Сод-Эрдэнэ,E-Commerce Systems,Shopping cart and order tracking system
+S2025_WINTER,STU_0004,PRELIMINARY_DEFENSE,S2025_WINTER_COM_03,25.0,4,1.5,17.875,6.0,Сүх.Номин,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0198,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,1.5,19.875,6.0,Бат.Бат-Эрдэнэ,Cybersecurity,Secure authentication model for student information systems
+S2025_WINTER,STU_0012,PRELIMINARY_DEFENSE,S2025_WINTER_COM_06,25.0,4,1.5,21.75,6.0,Буян.Наран,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0088,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,1.5,17.5,6.0,Сүх.Болор,E-Commerce Systems,Online marketplace prototype for local businesses
+S2025_WINTER,STU_0028,PRELIMINARY_DEFENSE,S2025_WINTER_COM_03,25.0,4,1.5,18.0,6.0,Ган.Тэнүүн,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0122,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,1.5,18.5,6.0,Дорж.Тэмүүлэн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0182,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,1.5,18.166666666666668,6.0,Болд.Болор,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0179,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,1.5,20.75,6.0,Дорж.Номин,Education Technology,Digital rubric system for student assessment
+S2025_WINTER,STU_0044,PRELIMINARY_DEFENSE,S2025_WINTER_COM_05,25.0,4,1.5,18.875,6.0,Алтан.Марал,Mobile Applications,Mobile application for campus service access
+S2025_WINTER,STU_0001,PRELIMINARY_DEFENSE,S2025_WINTER_COM_07,25.0,4,1.5,18.75,6.0,Сүх.Саруул,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0076,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,1.5,20.625,6.0,Сүх.Одгэрэл,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0071,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,1.5,19.333333333333332,6.0,Төмөр.Эрдэнэсувд,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0046,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,1.5,19.625,6.0,Ням.Ариунзаяа,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0075,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,1.5,19.25,6.0,Эрдэнэ.Оюун,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0113,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,2.0,30.666666666666668,5.714285714285714,Цогт.Ананд,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0116,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,2.0,31.666666666666668,5.714285714285714,Сайн.Ариунзаяа,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0189,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,2.0,30.25,5.714285714285714,Алтан.Энхжин,Cybersecurity,Access-control model for academic document systems
+S2025_WINTER,STU_0011,FINAL_DEFENSE,S2025_WINTER_COM_04,35.0,3,2.0,30.5,5.714285714285714,Буян.Ананд,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0184,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,2.0,29.875,5.714285714285714,Эрдэнэ.Идэр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0222,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,2.0,24.5,5.714285714285714,Бат.Сод-Эрдэнэ,E-Commerce Systems,Shopping cart and order tracking system
+S2025_WINTER,STU_0007,FINAL_DEFENSE,S2025_WINTER_COM_07,35.0,5,2.0,28.3,5.714285714285714,Жаргал.Тэнүүн,Database Systems,Database design for thesis management workflows
+S2025_WINTER,STU_0032,FINAL_DEFENSE,S2025_WINTER_COM_02,35.0,3,2.0,28.166666666666668,5.714285714285714,Төмөр.Оюун,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2025_WINTER,STU_0037,FINAL_DEFENSE,S2025_WINTER_COM_07,35.0,5,2.0,29.7,5.714285714285714,Болд.Ариунзаяа,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0186,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,2.0,31.75,5.714285714285714,Алтан.Эрдэнэсувд,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0180,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,2.0,29.8,5.714285714285714,Дорж.Марал,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0201,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,2.0,28.166666666666668,5.714285714285714,Сүх.Ганзориг,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0205,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,2.0,27.666666666666668,5.714285714285714,Цогт.Болор,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0093,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,2.0,31.833333333333332,5.714285714285714,Сайн.Ананд,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0200,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,2.0,27.625,5.714285714285714,Цогт.Оюун,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0132,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,2.0,27.75,5.714285714285714,Мөнх.Тэнүүн,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0128,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,2.0,27.0,5.714285714285714,Очир.Тэмүүлэн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0176,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,2.0,29.375,5.714285714285714,Бат.Номин,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0133,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,2.0,26.5,5.714285714285714,Очир.Ганзориг,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0171,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,2.0,25.166666666666668,5.714285714285714,Төмөр.Номин,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0145,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,2.0,28.875,5.714285714285714,Буян.Саруул,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0096,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,2.0,29.125,5.714285714285714,Төмөр.Билгүүн,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0050,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,2.0,32.75,5.714285714285714,Бат.Марал,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0169,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,2.0,30.4,5.714285714285714,Ган.Мөнх-Оргил,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0122,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,2.0,26.0,5.714285714285714,Дорж.Тэмүүлэн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0121,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,2.0,28.0,5.714285714285714,Болд.Ганзориг,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0088,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,2.0,25.6,5.714285714285714,Сүх.Болор,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0104,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,2.0,28.333333333333332,5.714285714285714,Сүх.Наран,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2025_WINTER,STU_0041,FINAL_DEFENSE,S2025_WINTER_COM_03,35.0,4,2.0,27.625,5.714285714285714,Ням.Эрдэнэсувд,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0059,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,2.0,26.375,5.714285714285714,Ням.Марал,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0127,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,2.0,31.25,5.714285714285714,Бат.Сод-Эрдэнэ,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0144,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,2.0,26.625,5.714285714285714,Цогт.Саруул,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0138,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,2.0,25.666666666666668,5.714285714285714,Ням.Дөлгөөн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0167,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,2.0,29.666666666666668,5.714285714285714,Төмөр.Ариунзаяа,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0087,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,1.0,14.0,5.0,Алтан.Сод-Эрдэнэ,Web Systems,Web-based academic workflow management system
+S2025_WINTER,STU_0019,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_02,20.0,3,1.0,14.166666666666666,5.0,Жаргал.Хүслэн,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0196,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,1.0,14.5,5.0,Очир.Төгөлдөр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2025_WINTER,STU_0011,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_04,20.0,3,1.0,15.0,5.0,Буян.Ананд,E-Commerce Systems,Shopping cart and order tracking system
+S2025_WINTER,STU_0017,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_06,20.0,3,1.0,15.5,5.0,Ням.Тэнүүн,Cybersecurity,Secure authentication model for student information systems
+S2025_WINTER,STU_0010,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_05,20.0,4,1.0,13.625,5.0,Цогт.Энхрий,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0117,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,1.0,13.625,5.0,Ган.Оюун,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0115,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,1.0,14.833333333333334,5.0,Мөнх.Номин,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0103,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,1.0,15.625,5.0,Ням.Тэнүүн,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0181,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,1.0,15.5,5.0,Ган.Билгүүн,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0184,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,1.0,15.5,5.0,Эрдэнэ.Идэр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0125,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,1.0,16.333333333333332,5.0,Цогт.Ганзориг,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0086,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,1.0,15.0,5.0,Очир.Одгэрэл,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0137,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,1.0,15.0,5.0,Болд.Идэр,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0135,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,1.0,13.5,5.0,Жаргал.Болор,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0138,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,1.0,12.5,5.0,Ням.Дөлгөөн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0143,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,1.0,14.0,5.0,Бат.Сод-Эрдэнэ,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2025_WINTER,STU_0040,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_07,20.0,4,1.0,14.125,5.0,Ням.Мөнх-Оргил,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0073,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,1.0,14.0,5.0,Болд.Эрдэнэсувд,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0049,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,1.0,16.0,5.0,Эрдэнэ.Болор,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2026_SPRING,STU_0047,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,1.0,13.0,5.0,Сүх.Хүслэн,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0168,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,1.0,13.833333333333334,5.0,Болд.Марал,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0129,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,1.0,13.5,5.0,Дорж.Энхжин,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0126,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,1.0,15.0,5.0,Эрдэнэ.Сод-Эрдэнэ,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2025_WINTER,STU_0039,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_01,20.0,3,1.0,12.0,5.0,Сүх.Хүслэн,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0152,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,1.0,14.625,5.0,Болд.Наран,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0154,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,1.0,16.0,5.0,Сүх.Марал,Education Technology,Digital rubric system for student assessment
+S2026_SPRING,STU_0066,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,1.0,13.5,5.0,Цогт.Ариунзаяа,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0062,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_05,20.0,4,1.0,14.375,5.0,Жаргал.Эрдэнэсувд,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0065,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,1.0,12.5,5.0,Бат.Ананд,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0055,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,1.0,12.5,5.0,Сайн.Тэмүүлэн,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0069,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,1.0,13.5,5.0,Ган.Оюун,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0158,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,1.0,13.833333333333334,5.0,Болд.Дөлгөөн,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0160,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,1.0,13.0,5.0,Ган.Ариунзаяа,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0097,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,1.0,15.166666666666666,5.0,Жаргал.Ариунзаяа,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0206,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,1.0,13.666666666666666,5.0,Жаргал.Оюун,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0098,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,1.0,13.833333333333334,5.0,Цогт.Бат-Эрдэнэ,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0096,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,1.0,15.333333333333334,5.0,Төмөр.Билгүүн,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0093,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,1.0,15.75,5.0,Сайн.Ананд,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0210,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,1.0,15.125,5.0,Сайн.Сод-Эрдэнэ,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0212,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,1.0,14.875,5.0,Мөнх.Энхжин,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0210,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,1.5,31.0,4.285714285714286,Сайн.Сод-Эрдэнэ,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0216,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,1.5,23.5,4.285714285714286,Болд.Сод-Эрдэнэ,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0217,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,1.5,26.125,4.285714285714286,Мөнх.Идэр,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0068,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,1.5,27.6,4.285714285714286,Ням.Саруул,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0067,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,1.5,24.375,4.285714285714286,Ням.Тэмүүлэн,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0152,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,1.5,30.7,4.285714285714286,Болд.Наран,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0154,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,1.5,27.75,4.285714285714286,Сүх.Марал,Education Technology,Digital rubric system for student assessment
+S2026_SPRING,STU_0206,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,1.5,26.25,4.285714285714286,Жаргал.Оюун,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2025_WINTER,STU_0023,FINAL_DEFENSE,S2025_WINTER_COM_04,35.0,3,1.5,30.833333333333332,4.285714285714286,Төмөр.Энхрий,Database Systems,Database design for thesis management workflows
+S2025_WINTER,STU_0029,FINAL_DEFENSE,S2025_WINTER_COM_05,35.0,4,1.5,28.75,4.285714285714286,Мөнх.Ариунзаяа,Education Technology,Digital rubric system for student assessment
+S2026_SPRING,STU_0123,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,1.5,28.5,4.285714285714286,Ням.Төгөлдөр,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0086,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,1.5,29.5,4.285714285714286,Очир.Одгэрэл,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0089,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,1.5,29.75,4.285714285714286,Буян.Номин,Education Technology,Digital rubric system for student assessment
+S2025_WINTER,STU_0006,FINAL_DEFENSE,S2025_WINTER_COM_05,35.0,4,1.5,26.625,4.285714285714286,Цогт.Одгэрэл,Mobile Applications,Android-based student progress tracking application
+S2025_WINTER,STU_0014,FINAL_DEFENSE,S2025_WINTER_COM_06,35.0,3,1.5,27.333333333333332,4.285714285714286,Жаргал.Марал,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0075,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,1.5,26.0,4.285714285714286,Эрдэнэ.Оюун,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0183,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,1.5,31.5,4.285714285714286,Сүх.Номин,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0175,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,1.5,31.166666666666668,4.285714285714286,Буян.Тэмүүлэн,Cloud/Microservices,Containerized service architecture for student systems
+S2025_WINTER,STU_0044,FINAL_DEFENSE,S2025_WINTER_COM_05,35.0,4,1.5,29.75,4.285714285714286,Алтан.Марал,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0130,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,1.5,29.333333333333332,4.285714285714286,Буян.Идэр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0224,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,1.5,30.75,4.285714285714286,Сүх.Төгөлдөр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0225,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,1.5,27.375,4.285714285714286,Очир.Наран,Mobile Applications,Android-based student progress tracking application
+S2025_WINTER,STU_0017,FINAL_DEFENSE,S2025_WINTER_COM_06,35.0,3,1.5,29.166666666666668,4.285714285714286,Ням.Тэнүүн,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0194,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,1.5,25.75,4.285714285714286,Очир.Ганзориг,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0115,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,1.5,28.25,4.285714285714286,Мөнх.Номин,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0048,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,1.5,28.875,4.285714285714286,Цогт.Тэмүүлэн,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0058,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,1.5,28.0,4.285714285714286,Очир.Саруул,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0051,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,1.5,32.75,4.285714285714286,Цогт.Ариунзаяа,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0126,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,1.5,27.666666666666668,4.285714285714286,Эрдэнэ.Сод-Эрдэнэ,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0161,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,1.5,28.125,4.285714285714286,Жаргал.Ганзориг,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0206,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,1.0,17.5,4.0,Жаргал.Оюун,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0066,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,1.0,17.0,4.0,Цогт.Ариунзаяа,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0204,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,1.0,19.875,4.0,Ням.Билгүүн,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0073,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,1.0,18.0,4.0,Болд.Эрдэнэсувд,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0126,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,1.0,18.833333333333332,4.0,Эрдэнэ.Сод-Эрдэнэ,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0105,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,1.0,19.833333333333332,4.0,Сүх.Билгүүн,Mobile Applications,Mobile application for campus service access
+S2025_WINTER,STU_0003,PRELIMINARY_DEFENSE,S2025_WINTER_COM_02,25.0,4,1.0,19.375,4.0,Төмөр.Бат-Эрдэнэ,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0201,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,1.0,20.333333333333332,4.0,Сүх.Ганзориг,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0100,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,1.0,19.0,4.0,Ган.Болор,Education Technology,Learning progress dashboard for undergraduate courses
+S2025_WINTER,STU_0023,PRELIMINARY_DEFENSE,S2025_WINTER_COM_04,25.0,3,1.0,23.0,4.0,Төмөр.Энхрий,Database Systems,Database design for thesis management workflows
+S2025_WINTER,STU_0019,PRELIMINARY_DEFENSE,S2025_WINTER_COM_02,25.0,4,1.0,19.0,4.0,Жаргал.Хүслэн,Database Systems,Relational data model for defense score analysis
+S2025_WINTER,STU_0027,PRELIMINARY_DEFENSE,S2025_WINTER_COM_02,25.0,4,1.0,19.125,4.0,Эрдэнэ.Төгөлдөр,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0085,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,1.0,18.5,4.0,Сүх.Хулан,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0123,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,1.0,19.666666666666668,4.0,Ням.Төгөлдөр,Database Systems,Database design for thesis management workflows
+S2025_WINTER,STU_0030,PRELIMINARY_DEFENSE,S2025_WINTER_COM_06,25.0,4,1.0,20.5,4.0,Эрдэнэ.Болор,Database Systems,Relational data model for defense score analysis
+S2025_WINTER,STU_0033,PRELIMINARY_DEFENSE,S2025_WINTER_COM_02,25.0,4,1.0,19.0,4.0,Буян.Саруул,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0197,PRELIMINARY_DEFENSE,S2026_SPRING_COM_08,25.0,4,1.0,20.5,4.0,Жаргал.Саруул,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0109,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,1.0,19.666666666666668,4.0,Очир.Наран,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0081,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,1.0,19.5,4.0,Мөнх.Ганзориг,Education Technology,Learning progress dashboard for undergraduate courses
+S2025_WINTER,STU_0034,PRELIMINARY_DEFENSE,S2025_WINTER_COM_01,25.0,3,1.0,19.333333333333332,4.0,Ням.Оюун,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0223,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,1.0,18.666666666666668,4.0,Сүх.Болор,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2025_WINTER,STU_0006,PRELIMINARY_DEFENSE,S2025_WINTER_COM_05,25.0,4,1.0,20.0,4.0,Цогт.Одгэрэл,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0115,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,1.0,18.5,4.0,Мөнх.Номин,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0116,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,1.0,20.5,4.0,Сайн.Ариунзаяа,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0049,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,1.0,19.833333333333332,4.0,Эрдэнэ.Болор,IoT/Embedded Systems,IoT-based classroom environment monitoring system
+S2026_SPRING,STU_0140,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,1.0,17.875,4.0,Сайн.Ариунзаяа,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0080,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,1.0,17.0,4.0,Эрдэнэ.Марал,Computer Graphics,Graphics-based simulation for learning environments
+S2025_WINTER,STU_0040,PRELIMINARY_DEFENSE,S2025_WINTER_COM_07,25.0,4,1.0,19.25,4.0,Ням.Мөнх-Оргил,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0077,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,1.0,21.0,4.0,Мөнх.Саруул,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0148,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,1.0,20.0,4.0,Мөнх.Сод-Эрдэнэ,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0165,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,1.0,18.833333333333332,4.0,Сайн.Тэмүүлэн,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0056,PRELIMINARY_DEFENSE,S2026_SPRING_COM_09,25.0,3,1.0,17.5,4.0,Бат.Дөлгөөн,Mobile Applications,Android-based student progress tracking application
+S2025_WINTER,STU_0025,FINAL_DEFENSE,S2025_WINTER_COM_05,35.0,4,1.0,30.5,2.857142857142857,Алтан.Төгөлдөр,Cybersecurity,Access-control model for academic document systems
+S2025_WINTER,STU_0020,FINAL_DEFENSE,S2025_WINTER_COM_03,35.0,4,1.0,28.625,2.857142857142857,Мөнх.Ариунзаяа,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0098,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,1.0,26.5,2.857142857142857,Цогт.Бат-Эрдэнэ,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0139,FINAL_DEFENSE,S2026_SPRING_COM_08,35.0,3,1.0,29.0,2.857142857142857,Буян.Тэнүүн,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0110,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,1.0,27.5,2.857142857142857,Жаргал.Тэмүүлэн,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0111,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,1.0,26.625,2.857142857142857,Буян.Одгэрэл,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0105,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,1.0,27.875,2.857142857142857,Сүх.Билгүүн,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0174,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,1.0,27.333333333333332,2.857142857142857,Буян.Бат-Эрдэнэ,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0185,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,1.0,28.375,2.857142857142857,Очир.Билгүүн,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2025_WINTER,STU_0012,FINAL_DEFENSE,S2025_WINTER_COM_06,35.0,3,1.0,33.0,2.857142857142857,Буян.Наран,Cybersecurity,Access-control model for academic document systems
+S2025_WINTER,STU_0035,FINAL_DEFENSE,S2025_WINTER_COM_06,35.0,3,1.0,29.5,2.857142857142857,Төмөр.Эрдэнэсувд,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0166,FINAL_DEFENSE,S2026_SPRING_COM_05,35.0,4,1.0,26.875,2.857142857142857,Бат.Мөнх-Оргил,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0055,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,1.0,27.0,2.857142857142857,Сайн.Тэмүүлэн,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0158,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,1.0,29.375,2.857142857142857,Болд.Дөлгөөн,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0141,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,1.0,26.0,2.857142857142857,Болд.Болор,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0089,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,0.5,14.166666666666666,2.5,Буян.Номин,Education Technology,Digital rubric system for student assessment
+S2025_WINTER,STU_0035,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_06,20.0,3,0.5,13.166666666666666,2.5,Төмөр.Эрдэнэсувд,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0187,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,0.5,13.333333333333334,2.5,Сайн.Тэмүүлэн,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0090,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,0.5,14.125,2.5,Сайн.Тэнүүн,E-Commerce Systems,Shopping cart and order tracking system
+S2025_WINTER,STU_0016,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_07,20.0,4,0.5,14.75,2.5,Сүх.Ананд,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0179,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,0.5,16.166666666666668,2.5,Дорж.Номин,Education Technology,Digital rubric system for student assessment
+S2026_SPRING,STU_0075,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,0.5,14.666666666666666,2.5,Эрдэнэ.Оюун,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0174,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,0.5,14.166666666666666,2.5,Буян.Бат-Эрдэнэ,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0171,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,0.5,14.333333333333334,2.5,Төмөр.Номин,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0153,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,0.5,11.666666666666666,2.5,Буян.Ариунзаяа,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0220,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,0.5,13.666666666666666,2.5,Бат.Хулан,Database Systems,Database design for thesis management workflows
+S2025_WINTER,STU_0024,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_03,20.0,3,0.5,13.666666666666666,2.5,Ням.Ариунзаяа,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0203,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,0.5,13.833333333333334,2.5,Очир.Болор,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0218,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,0.5,15.666666666666666,2.5,Буян.Наран,Education Technology,Digital rubric system for student assessment
+S2025_WINTER,STU_0021,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_03,20.0,3,0.5,13.666666666666666,2.5,Очир.Идэр,Education Technology,Digital rubric system for student assessment
+S2026_SPRING,STU_0068,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,0.5,13.75,2.5,Ням.Саруул,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0219,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,0.5,12.625,2.5,Сайн.Төгөлдөр,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0079,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,0.5,15.125,2.5,Цогт.Төгөлдөр,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0178,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,0.5,15.666666666666666,2.5,Төмөр.Энхрий,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0186,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,0.5,14.333333333333334,2.5,Алтан.Эрдэнэсувд,Database Systems,Database design for thesis management workflows
+S2026_SPRING,STU_0132,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,0.5,13.666666666666666,2.5,Мөнх.Тэнүүн,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2025_WINTER,STU_0045,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_04,20.0,3,0.5,14.166666666666666,2.5,Ням.Ариунзаяа,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0146,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_07,20.0,3,0.5,15.333333333333334,2.5,Ган.Ариунзаяа,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0136,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_03,20.0,3,0.5,15.833333333333334,2.5,Сүх.Марал,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0069,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,0.5,19.333333333333332,2.0,Ган.Оюун,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0153,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,0.5,16.666666666666668,2.0,Буян.Ариунзаяа,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0205,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,0.5,19.25,2.0,Цогт.Болор,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0154,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,0.5,19.833333333333332,2.0,Сүх.Марал,Education Technology,Digital rubric system for student assessment
+S2026_SPRING,STU_0133,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,0.5,18.25,2.0,Очир.Ганзориг,E-Commerce Systems,Online marketplace prototype for local businesses
+S2025_WINTER,STU_0038,PRELIMINARY_DEFENSE,S2025_WINTER_COM_01,25.0,3,0.5,17.666666666666668,2.0,Сайн.Эрдэнэсувд,Cloud/Microservices,Containerized service architecture for student systems
+S2025_WINTER,STU_0039,PRELIMINARY_DEFENSE,S2025_WINTER_COM_01,25.0,3,0.5,16.666666666666668,2.0,Сүх.Хүслэн,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0079,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,0.5,19.625,2.0,Цогт.Төгөлдөр,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0108,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,0.5,18.333333333333332,2.0,Ням.Идэр,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0137,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,0.5,19.333333333333332,2.0,Болд.Идэр,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0136,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,0.5,20.625,2.0,Сүх.Марал,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0048,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,0.5,20.166666666666668,2.0,Цогт.Тэмүүлэн,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0104,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,0.5,18.75,2.0,Сүх.Наран,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0187,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,0.5,18.666666666666668,2.0,Сайн.Тэмүүлэн,Cybersecurity,Access-control model for academic document systems
+S2026_SPRING,STU_0083,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,0.5,19.875,2.0,Бат.Номин,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0184,PRELIMINARY_DEFENSE,S2026_SPRING_COM_06,25.0,3,0.5,21.666666666666668,2.0,Эрдэнэ.Идэр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0084,PRELIMINARY_DEFENSE,S2026_SPRING_COM_05,25.0,4,0.5,18.375,2.0,Цогт.Наран,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0188,PRELIMINARY_DEFENSE,S2026_SPRING_COM_04,25.0,3,0.5,19.833333333333332,2.0,Жаргал.Идэр,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2025_WINTER,STU_0005,PRELIMINARY_DEFENSE,S2025_WINTER_COM_01,25.0,3,0.5,19.166666666666668,2.0,Сайн.Тэмүүлэн,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0224,PRELIMINARY_DEFENSE,S2026_SPRING_COM_01,25.0,3,0.5,20.666666666666668,2.0,Сүх.Төгөлдөр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0125,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,0.5,22.75,2.0,Цогт.Ганзориг,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0125,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,0.5,30.666666666666668,1.4285714285714286,Цогт.Ганзориг,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0107,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,0.5,29.166666666666668,1.4285714285714286,Ган.Оюун,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0108,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,0.5,28.75,1.4285714285714286,Ням.Идэр,Computer Graphics,Interactive visualization tool for academic data
+S2025_WINTER,STU_0019,FINAL_DEFENSE,S2025_WINTER_COM_02,35.0,3,0.5,28.333333333333332,1.4285714285714286,Жаргал.Хүслэн,Database Systems,Relational data model for defense score analysis
+S2025_WINTER,STU_0013,FINAL_DEFENSE,S2025_WINTER_COM_04,35.0,3,0.5,29.166666666666668,1.4285714285714286,Сүх.Билгүүн,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0203,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,0.5,27.75,1.4285714285714286,Очир.Болор,Education Technology,Learning progress dashboard for undergraduate courses
+S2025_WINTER,STU_0024,FINAL_DEFENSE,S2025_WINTER_COM_03,35.0,4,0.5,27.25,1.4285714285714286,Ням.Ариунзаяа,Database Systems,Relational data model for defense score analysis
+S2026_SPRING,STU_0069,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,0.5,27.25,1.4285714285714286,Ган.Оюун,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0118,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,0.5,26.166666666666668,1.4285714285714286,Дорж.Идэр,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0053,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,0.5,29.333333333333332,1.4285714285714286,Сүх.Билгүүн,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0137,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,0.5,27.75,1.4285714285714286,Болд.Идэр,Computer Graphics,Interactive visualization tool for academic data
+S2026_SPRING,STU_0159,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,0.5,25.833333333333332,1.4285714285714286,Ган.Саруул,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0054,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,0.5,30.25,1.4285714285714286,Цогт.Төгөлдөр,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2026_SPRING,STU_0170,FINAL_DEFENSE,S2026_SPRING_COM_07,35.0,3,0.5,26.833333333333332,1.4285714285714286,Ган.Хүслэн,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0142,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,0.5,27.375,1.4285714285714286,Цогт.Тэнүүн,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0134,FINAL_DEFENSE,S2026_SPRING_COM_02,35.0,5,0.5,29.9,1.4285714285714286,Сүх.Эрдэнэсувд,IoT/Embedded Systems,Embedded attendance tracking prototype
+S2026_SPRING,STU_0077,FINAL_DEFENSE,S2026_SPRING_COM_06,35.0,4,0.5,29.75,1.4285714285714286,Мөнх.Саруул,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0148,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,0.5,29.166666666666668,1.4285714285714286,Мөнх.Сод-Эрдэнэ,AI/Data Analysis,Data analytics dashboard for academic evaluation
+S2025_WINTER,STU_0027,FINAL_DEFENSE,S2025_WINTER_COM_02,35.0,3,0.5,26.166666666666668,1.4285714285714286,Эрдэнэ.Төгөлдөр,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0172,FINAL_DEFENSE,S2026_SPRING_COM_03,35.0,4,0.5,28.375,1.4285714285714286,Сүх.Хүслэн,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0212,FINAL_DEFENSE,S2026_SPRING_COM_04,35.0,3,0.0,31.0,0.0,Мөнх.Энхжин,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0216,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,0.0,0.0,0.0,Болд.Сод-Эрдэнэ,Computer Graphics,Interactive visualization tool for academic data
+S2025_WINTER,STU_0021,PRELIMINARY_DEFENSE,S2025_WINTER_COM_03,25.0,4,0.0,0.0,0.0,Очир.Идэр,Education Technology,Digital rubric system for student assessment
+S2026_SPRING,STU_0063,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,0.0,0.0,0.0,Очир.Номин,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0155,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_02,20.0,4,0.0,14.5,0.0,Эрдэнэ.Энхрий,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0207,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,0.0,27.5,0.0,Алтан.Сод-Эрдэнэ,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0157,PRELIMINARY_DEFENSE,S2026_SPRING_COM_02,25.0,4,0.0,0.0,0.0,Буян.Төгөлдөр,E-Commerce Systems,Online marketplace prototype for local businesses
+S2026_SPRING,STU_0052,FINAL_DEFENSE,S2026_SPRING_COM_09,35.0,4,0.0,29.5,0.0,Болд.Тэмүүлэн,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0055,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,0.0,17.0,0.0,Сайн.Тэмүүлэн,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0144,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,0.0,13.0,0.0,Цогт.Саруул,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0170,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,0.0,17.0,0.0,Ган.Хүслэн,Cloud/Microservices,Microservice-based thesis evaluation platform
+S2026_SPRING,STU_0174,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,0.0,19.5,0.0,Буян.Бат-Эрдэнэ,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0173,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,0.0,29.5,0.0,Сайн.Марал,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0172,PRELIMINARY_DEFENSE,S2026_SPRING_COM_03,25.0,4,0.0,0.0,0.0,Сүх.Хүслэн,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0175,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,0.0,14.0,0.0,Буян.Тэмүүлэн,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0058,PRELIMINARY_DEFENSE,S2026_SPRING_COM_07,25.0,2,0.0,18.5,0.0,Очир.Саруул,Mobile Applications,Mobile application for campus service access
+S2026_SPRING,STU_0139,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,0.0,0.0,0.0,Буян.Тэнүүн,Web Systems,Web-based academic workflow management system
+S2026_SPRING,STU_0111,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,0.0,13.0,0.0,Буян.Одгэрэл,Computer Graphics,Graphics-based simulation for learning environments
+S2026_SPRING,STU_0091,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_06,20.0,3,0.0,13.5,0.0,Алтан.Сод-Эрдэнэ,Mobile Applications,Android-based student progress tracking application
+S2026_SPRING,STU_0192,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,0.0,0.0,0.0,Цогт.Ганзориг,Web Systems,Role-based dashboard for university information systems
+S2026_SPRING,STU_0113,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_04,20.0,4,0.0,0.0,0.0,Цогт.Ананд,Cloud/Microservices,Containerized service architecture for student systems
+S2026_SPRING,STU_0112,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_09,20.0,3,0.0,14.0,0.0,Ням.Төгөлдөр,Cloud/Microservices,Containerized service architecture for student systems
+S2025_WINTER,STU_0031,FIRST_COMMISSION_DEFENSE,S2025_WINTER_COM_07,20.0,4,0.0,15.5,0.0,Төмөр.Энхжин,E-Commerce Systems,Shopping cart and order tracking system
+S2026_SPRING,STU_0114,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,0.0,28.5,0.0,Алтан.Наран,Education Technology,Learning progress dashboard for undergraduate courses
+S2026_SPRING,STU_0198,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_08,20.0,3,0.0,14.5,0.0,Бат.Бат-Эрдэнэ,Cybersecurity,Secure authentication model for student information systems
+S2026_SPRING,STU_0223,FINAL_DEFENSE,S2026_SPRING_COM_01,35.0,2,0.0,28.0,0.0,Сүх.Болор,AI/Data Analysis,Statistical analysis of thesis defense scoring behavior
+S2026_SPRING,STU_0224,FIRST_COMMISSION_DEFENSE,S2026_SPRING_COM_01,20.0,3,0.0,15.0,0.0,Сүх.Төгөлдөр,E-Commerce Systems,Online marketplace prototype for local businesses

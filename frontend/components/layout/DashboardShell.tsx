@@ -4,6 +4,7 @@ import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { getStoredUser, logout } from "@/lib/auth";
+import type { StoredUser } from "@/lib/auth";
 import { roleLabel } from "@/lib/mn";
 import {
   LayoutDashboard,
@@ -18,8 +19,10 @@ import {
   LogOut,
   Menu,
   X,
+  Bot,
+  Activity,
 } from "lucide-react";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 const links = {
   ADMIN: [
@@ -29,10 +32,12 @@ const links = {
     { href: "/admin/schedules", label: "Хуваарь", icon: Calendar },
     { href: "/admin/theses", label: "Диплом", icon: FileText },
     { href: "/admin/statistics", label: "Статистик", icon: BarChart3 },
+    { href: "/admin/analytics", label: "Аналитик", icon: Activity },
   ],
   STUDENT: [
     { href: "/student", label: "Нүүр", icon: LayoutDashboard },
     { href: "/student/thesis", label: "Диплом", icon: FileText },
+    { href: "/student/defense", label: "AI хамгаалалт", icon: Bot },
     { href: "/student/scores", label: "Оноо", icon: Award },
     { href: "/student/schedule", label: "Хуваарь", icon: Calendar },
     { href: "/student/critiques", label: "Шүүмж", icon: MessageSquare },
@@ -41,6 +46,8 @@ const links = {
     { href: "/teacher", label: "Нүүр", icon: LayoutDashboard },
     { href: "/teacher/mentor-students", label: "Оюутнууд", icon: GraduationCap },
     { href: "/teacher/critique-groups", label: "Комисс", icon: BookOpen },
+    { href: "/teacher/defense", label: "AI хамгаалалт", icon: Bot },
+    { href: "/teacher/analytics", label: "Аналитик", icon: Activity },
     { href: "/teacher/scoring", label: "Оноо", icon: Award },
     { href: "/teacher/reviews", label: "Шүүмж", icon: MessageSquare },
   ],
@@ -49,10 +56,15 @@ const links = {
 export function DashboardShell({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
   const router = useRouter();
-  const user = getStoredUser();
-  const role = user?.role ?? "ADMIN";
-  const items = links[role as keyof typeof links] ?? links.ADMIN;
+  const [user, setUser] = useState<StoredUser | null>(null);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+
+  useEffect(() => {
+    setUser(getStoredUser());
+  }, []);
+
+  const role = user?.role ?? "ADMIN";
+  const items = user ? links[role as keyof typeof links] ?? links.ADMIN : [];
 
   return (
     <div className="min-h-screen bg-neutral-100 text-neutral-950">

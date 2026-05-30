@@ -1,0 +1,22 @@
+THESIS DEFENSE ANALYTICS SUMMARY
+========================================
+Students analyzed: 225
+Average final total: 78.41/100
+Pass rate: 98.2%
+
+Top 3 strictest teachers:
+- Оюунцэцэг: -4.17 pct points vs peers, n=74
+- Отгонбаяр: -3.64 pct points vs peers, n=58
+- Энхжаргал: -3.58 pct points vs peers, n=21
+
+Top 3 most lenient teachers:
+- Анхбаяр: +4.91 pct points vs peers, n=40
+- Цогтгэрэл: +3.65 pct points vs peers, n=78
+- Төгөлдөр: +3.39 pct points vs peers, n=90
+
+Weakest criteria:
+- S2026_SPRING FIRST_COMMISSION_DEFENSE / Topic understanding: 70.3%
+- S2026_SPRING FIRST_COMMISSION_DEFENSE / Progress against thesis plan: 70.4%
+- S2026_SPRING FIRST_COMMISSION_DEFENSE / Presentation and Q&A: 70.5%
+- S2025_WINTER FIRST_COMMISSION_DEFENSE / Progress against thesis plan: 71.3%
+- S2025_WINTER FIRST_COMMISSION_DEFENSE / Topic understanding: 72.3%
