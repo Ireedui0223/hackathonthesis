@@ -1,0 +1,15 @@
+[Unit]
+Description=Thesis Orchestral Docker Compose stack
+Requires=docker.service
+After=docker.service network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/path/to/thesis-orchestral-system
+RemainAfterExit=yes
+ExecStart=/usr/bin/docker compose -f docker-compose.prod.yml up -d
+ExecStop=/usr/bin/docker compose -f docker-compose.prod.yml stop
+TimeoutStartSec=0
+
+[Install]
+WantedBy=multi-user.target

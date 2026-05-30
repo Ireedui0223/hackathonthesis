@@ -1,0 +1,281 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  ADMIN
+  STUDENT
+  TEACHER
+}
+
+enum TeacherType {
+  MENTOR
+  CRITIQUE
+  BOTH
+}
+
+enum ThesisStatus {
+  DRAFT
+  SUBMITTED
+  MENTOR_REVIEW
+  DEFENSE_1_COMPLETED
+  DEFENSE_2_COMPLETED
+  DEFENSE_3_COMPLETED
+  CRITIQUE_ASSIGNED
+  REVISION_REQUIRED
+  REVISION_SUBMITTED
+  FINAL_DEFENSE_READY
+  COMPLETED
+  REJECTED
+}
+
+enum ThesisFileType {
+  PROPOSAL
+  DRAFT
+  PRE_FINAL
+  FINAL
+  REVISION
+  OTHER
+}
+
+enum CritiqueStatus {
+  ASSIGNED
+  FEEDBACK_GIVEN
+  REVISION_SUBMITTED
+  APPROVED
+  NEEDS_MORE_WORK
+}
+
+model User {
+  id             String          @id @default(cuid())
+  email          String          @unique
+  passwordHash   String
+  name           String
+  role           UserRole
+  teacherType    TeacherType?
+  studentProfile StudentProfile?
+  teacherProfile TeacherProfile?
+  uploadedFiles  ThesisFile[]    @relation("UploadedFiles")
+  schedules      DefenseSchedule[] @relation("ScheduleCreator")
+  scores         DefenseScore[]  @relation("ScoreAuthor")
+  assignedReviews CritiqueReview[] @relation("ReviewAssigner")
+  createdAt      DateTime        @default(now())
+  updatedAt      DateTime        @updatedAt
+}
+
+model StudentProfile {
+  id                      String                 @id @default(cuid())
+  userId                  String                 @unique
+  studentCode             String?                @unique
+  department              String?
+  phone                   String?
+  user                    User                   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  thesis                  Thesis?
+  critiqueGroupMemberships CritiqueGroupStudent[]
+  createdAt               DateTime               @default(now())
+  updatedAt               DateTime               @updatedAt
+}
+
+model TeacherProfile {
+  id                    String                 @id @default(cuid())
+  userId                String                 @unique
+  teacherCode           String?                @unique
+  department            String?
+  title                 String?
+  phone                 String?
+  user                  User                   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  mentoredTheses        Thesis[]               @relation("MentorTheses")
+  critiqueGroups        CritiqueGroupTeacher[]
+  assignedCritiques     CritiqueReview[]       @relation("AssignedCritiques")
+  createdAt             DateTime               @default(now())
+  updatedAt             DateTime               @updatedAt
+}
+
+model AcademicSeason {
+  id        String            @id @default(cuid())
+  name      String            @unique
+  startDate DateTime?
+  endDate   DateTime?
+  isActive  Boolean           @default(true)
+  theses    Thesis[]
+  groups    CritiqueGroup[]
+  schedules DefenseSchedule[]
+  createdAt DateTime          @default(now())
+  updatedAt DateTime          @updatedAt
+}
+
+model DegreeType {
+  id          String            @id @default(cuid())
+  name        String            @unique
+  description String?
+  theses      Thesis[]
+  groups      CritiqueGroup[]
+  schedules   DefenseSchedule[]
+  createdAt   DateTime          @default(now())
+  updatedAt   DateTime          @updatedAt
+}
+
+model Thesis {
+  id                  String           @id @default(cuid())
+  studentId           String           @unique
+  mentorTeacherId     String?
+  critiqueGroupId     String?
+  academicSeasonId    String
+  degreeTypeId        String
+  title               String
+  abstract            String?
+  keywords            String?
+  status              ThesisStatus     @default(DRAFT)
+  currentDefenseStage Int              @default(1)
+  student             StudentProfile   @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  mentorTeacher       TeacherProfile?  @relation("MentorTheses", fields: [mentorTeacherId], references: [id])
+  critiqueGroup       CritiqueGroup?   @relation(fields: [critiqueGroupId], references: [id])
+  academicSeason      AcademicSeason   @relation(fields: [academicSeasonId], references: [id])
+  degreeType          DegreeType       @relation(fields: [degreeTypeId], references: [id])
+  files               ThesisFile[]
+  defenseScores       DefenseScore[]
+  critiques           CritiqueReview[]
+  createdAt           DateTime         @default(now())
+  updatedAt           DateTime         @updatedAt
+}
+
+model ThesisFile {
+  id           String         @id @default(cuid())
+  thesisId     String
+  uploadedById String
+  fileName     String
+  originalName String
+  mimeType     String
+  size         Int
+  path         String
+  fileType     ThesisFileType
+  version      Int            @default(1)
+  notes        String?
+  thesis       Thesis         @relation(fields: [thesisId], references: [id], onDelete: Cascade)
+  uploadedBy   User           @relation("UploadedFiles", fields: [uploadedById], references: [id])
+  critiqueRevision CritiqueReview? @relation("RevisionFile")
+  createdAt    DateTime       @default(now())
+}
+
+model CritiqueGroup {
+  id               String                 @id @default(cuid())
+  name             String
+  academicSeasonId String
+  degreeTypeId     String?
+  academicSeason   AcademicSeason         @relation(fields: [academicSeasonId], references: [id])
+  degreeType       DegreeType?            @relation(fields: [degreeTypeId], references: [id])
+  teachers         CritiqueGroupTeacher[]
+  students         CritiqueGroupStudent[]
+  theses           Thesis[]
+  createdAt        DateTime               @default(now())
+  updatedAt        DateTime               @updatedAt
+}
+
+model CritiqueGroupTeacher {
+  id         String         @id @default(cuid())
+  groupId    String
+  teacherId  String
+  isActive   Boolean        @default(true)
+  assignedAt DateTime       @default(now())
+  removedAt  DateTime?
+  group      CritiqueGroup  @relation(fields: [groupId], references: [id], onDelete: Cascade)
+  teacher    TeacherProfile @relation(fields: [teacherId], references: [id], onDelete: Cascade)
+
+  @@unique([groupId, teacherId])
+}
+
+model CritiqueGroupStudent {
+  id         String         @id @default(cuid())
+  groupId    String
+  studentId  String
+  assignedAt DateTime       @default(now())
+  group      CritiqueGroup  @relation(fields: [groupId], references: [id], onDelete: Cascade)
+  student    StudentProfile @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@unique([groupId, studentId])
+}
+
+model DefenseStage {
+  id          String            @id @default(cuid())
+  stageNumber Int              @unique
+  name        String
+  maxScore    Float
+  description String?
+  isActive    Boolean           @default(true)
+  schedules   DefenseSchedule[]
+  scores      DefenseScore[]
+  critiques   CritiqueReview[]
+  createdAt   DateTime          @default(now())
+  updatedAt   DateTime          @updatedAt
+}
+
+model DefenseSchedule {
+  id               String         @id @default(cuid())
+  academicSeasonId String
+  degreeTypeId     String?
+  defenseStageId   String
+  title            String
+  defenseDate      DateTime
+  startTime        String?
+  endTime          String?
+  location         String?
+  notes            String?
+  createdById      String
+  academicSeason   AcademicSeason @relation(fields: [academicSeasonId], references: [id])
+  degreeType       DegreeType?    @relation(fields: [degreeTypeId], references: [id])
+  defenseStage     DefenseStage   @relation(fields: [defenseStageId], references: [id])
+  createdBy        User           @relation("ScheduleCreator", fields: [createdById], references: [id])
+  createdAt        DateTime       @default(now())
+  updatedAt        DateTime       @updatedAt
+}
+
+model DefenseScore {
+  id             String       @id @default(cuid())
+  thesisId       String
+  defenseStageId String
+  scoredById     String
+  score          Float
+  comment        String?
+  thesis         Thesis       @relation(fields: [thesisId], references: [id], onDelete: Cascade)
+  defenseStage   DefenseStage @relation(fields: [defenseStageId], references: [id])
+  scoredBy       User         @relation("ScoreAuthor", fields: [scoredById], references: [id])
+  createdAt      DateTime     @default(now())
+  updatedAt      DateTime     @updatedAt
+
+  @@unique([thesisId, defenseStageId, scoredById])
+}
+
+model CritiqueReview {
+  id                  String         @id @default(cuid())
+  thesisId            String
+  assignedTeacherId   String
+  assignedById        String
+  defenseStageId      String?
+  feedback            String?
+  requiredChanges     String?
+  dueDate             DateTime
+  status              CritiqueStatus @default(ASSIGNED)
+  submittedAt         DateTime?
+  revisionFileId      String?        @unique
+  teacherFinalComment String?
+  thesis              Thesis         @relation(fields: [thesisId], references: [id], onDelete: Cascade)
+  assignedTeacher     TeacherProfile @relation("AssignedCritiques", fields: [assignedTeacherId], references: [id])
+  assignedBy          User           @relation("ReviewAssigner", fields: [assignedById], references: [id])
+  defenseStage        DefenseStage?  @relation(fields: [defenseStageId], references: [id])
+  revisionFile        ThesisFile?    @relation("RevisionFile", fields: [revisionFileId], references: [id])
+  createdAt           DateTime       @default(now())
+  updatedAt           DateTime       @updatedAt
+}
+
+model ContactMessage {
+  id        String   @id @default(cuid())
+  name      String
+  email     String
+  message   String
+  createdAt DateTime @default(now())
+}

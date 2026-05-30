@@ -1,0 +1,23 @@
+{
+  "name": "@thesis/model-orchestrator",
+  "version": "0.1.0",
+  "private": true,
+  "main": "dist/main.js",
+  "scripts": {
+    "dev": "pnpm --filter @thesis/shared build && pnpm --filter @thesis/config build && tsx watch src/main.ts",
+    "build": "pnpm --filter @thesis/shared build && pnpm --filter @thesis/config build && tsc -p tsconfig.json",
+    "start": "node dist/main.js",
+    "typecheck": "pnpm --filter @thesis/shared build && pnpm --filter @thesis/config build && tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@fastify/helmet": "13.0.2",
+    "@thesis/config": "workspace:*",
+    "@thesis/shared": "workspace:*",
+    "fastify": "5.8.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.30",
+    "tsx": "4.22.3",
+    "typescript": "6.0.3"
+  }
+}

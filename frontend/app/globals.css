@@ -1,0 +1,116 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f5f5f5;
+  --foreground: #111111;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-width: 320px;
+  background: var(--background);
+}
+
+body {
+  margin: 0;
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+@keyframes lift-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.aurora,
+.grid-mask {
+  display: none;
+}
+
+.glass {
+  border: 1px solid #d4d4d4;
+  background: #ffffff;
+  color: #111111;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+.glow-button {
+  background: #111111;
+  color: #ffffff;
+}
+
+.shimmer-text {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 0.12em;
+  text-underline-offset: 0.12em;
+}
+
+.float-card {
+  animation: lift-in 220ms ease-out both;
+}
+
+.data-input {
+  width: 100%;
+  border: 1px solid #d4d4d4;
+  border-radius: 10px;
+  background: #ffffff;
+  color: #111111;
+  padding: 10px 12px;
+  outline: none;
+}
+
+.data-input:focus {
+  border-color: #111111;
+  box-shadow: 0 0 0 3px rgba(17, 17, 17, 0.08);
+}
+
+.data-label {
+  display: grid;
+  gap: 6px;
+  color: #404040;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.data-button {
+  border-radius: 10px;
+  background: #111111;
+  color: #ffffff;
+  padding: 10px 14px;
+  font-weight: 700;
+}
+
+.data-button.secondary {
+  border: 1px solid #d4d4d4;
+  background: #ffffff;
+  color: #111111;
+}
+
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid #d4d4d4;
+  border-radius: 999px;
+  padding: 4px 8px;
+  font-size: 12px;
+  color: #404040;
+  background: #fafafa;
+}
